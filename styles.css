@@ -5,6 +5,10 @@ body {
     padding: 0;
     background-color: #f4f4f9;
 }
+body {
+    background-color: violet; /* Фиолетовый фон */
+    color: white; /* Белый цвет текста для контраста */
+}
 
 header {
     text-align: center;
